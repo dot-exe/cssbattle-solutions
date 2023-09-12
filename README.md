@@ -7,7 +7,10 @@ I tried to give my best to perform these excercises. The solutions presented in 
 
 # Daily Targets
 ![11-09-2023-photo](/daily-targets/11-09-2023/11-09-2023-photo.png)
+![11-09-2023-photo](/daily-targets/12-09-2023/12-09-2023-photo.png)
 <br>
 [11-09-2023](https://cssbattle.dev/play/UidFZ3Ir3BBfqdSdxbLA)
-
+<br>
+[12-09-2023](https://cssbattle.dev/play/UidFZ3Ir3BBfqdSdxbLA)
+<br>
 _to be continued..._

@@ -1,0 +1,25 @@
+<div class="figure">
+  <div class="frame"></div>
+</div>
+<style>
+  * {
+    background: #FEFAE0;
+  }
+  .figure {
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%, -50%);
+    border-radius: 100px;
+    background: #9CCCDB;
+  }
+  .frame {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px 0px 0px 0px;
+    outline: solid 20px #FEFAE0;
+    background: #9CCCDB;
+  }
+</style>

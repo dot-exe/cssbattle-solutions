@@ -1,0 +1,60 @@
+<div class="f">
+    <div class="p1"></div>
+    <div class="p3"></div>
+    <div class="p2"></div>
+    <div class="p4"></div>
+</div>
+<style>
+  *{
+    background:#B5D1FB;
+  }
+
+  .f {
+    width: 400px;
+    height: 150px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .p1 {
+    width: 185px;
+    height: 45px;
+    border-radius: 0px 90px 0px 0px;
+    border-style: solid;
+    border-color: #230259;
+    border-width: 30px 30px 0px 0px;
+    z-index:1;
+  }
+  .p2 {
+    width:185px;
+    height: 45px;
+    border-radius: 0px 0px 90px 0px;
+    outline-style: solid;
+    outline-color: #8819F6;
+    outline-width: 30px;
+    margin-bottom:30px;
+  }
+  .p3 {
+    width:185px;
+    height: 45px;
+    border-radius: 90px 0px 0px 0px;
+    outline-style: solid;
+    outline-color: #8819F6;
+    outline-width: 30px;
+    margin-top: 30px;
+  }
+  .p4 {
+    width: 185px;
+    height: 45px;
+    border-radius: 0px 0px 0px 90px;
+    border-style: solid;
+    border-color: #230259;
+    border-width: 0px 0px 30px 30px;
+  }
+</style>

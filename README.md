@@ -1,5 +1,5 @@
 # CSSBattle
-Here is my collection of CSSBattle solutions. They are shown in apprioprate folders using markdown files.
+Here is my collection of [CSSBattle](https://cssbattle.dev/) solutions. They are shown in apprioprate folders using markdown files.
 <br>
 I tried to give my best to perform these excercises. The solutions presented in this repository are not optimal, but they are working and I've done them by myself.
 

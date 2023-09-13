@@ -1,0 +1,41 @@
+<div class="figure fixed">
+  <div class="circle"></div>
+  <div class="circle"></div>
+  <div class="circle"></div>
+  <div class="circle"></div>
+</div>
+<div class="square fixed"></div>
+<style>
+  * {
+    background: #DA30D4;
+  }
+
+  .fixed {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .figure {
+    width: 220px;
+    height: 220px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+  }
+
+  .circle {
+    width: 100px;
+    height: 100px;
+    background: #0C0C49;
+    border-radius: 50px;
+  }
+
+  .square {
+    width: 120px;
+    height: 120px;
+    background: #DA30D4;
+  }
+</style>

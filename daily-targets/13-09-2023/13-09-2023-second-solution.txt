@@ -1,0 +1,48 @@
+<div class="figure fixed">
+  <div class="circle"></div>
+  <div class="circle rotate-1"></div>
+  <div class="circle rotate-2"></div>
+  <div class="circle rotate-3"></div>
+</div>
+
+<style>
+  body {
+    background: #DA30D4;
+  }
+
+  .fixed {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .figure {
+    width: 220px;
+    height: 220px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+  }
+
+  .circle {
+    width: 100px;
+    height: 100px;
+    border: 50px solid #0C0C49;
+    border-radius: 50px;
+    border-right-color: transparent;
+    box-sizing: border-box;
+    transform: rotate(45deg);
+  }
+
+  .rotate-1{
+    transform: rotate(135deg);
+  }
+  .rotate-2{
+    transform: rotate(-45deg);
+  }
+  .rotate-3{
+    transform: rotate(-135deg);
+  }
+</style>

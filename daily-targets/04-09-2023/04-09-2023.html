@@ -1,0 +1,39 @@
+<div class="figure">
+  <div class="upper"></div>
+  <div class="middle"></div>
+  <div class="lower"></div>
+</div>
+<style>
+  body {
+    background: #F0CD48;
+  }
+  .figure {
+    width: 100px;
+    height: 220px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .upper{
+    width: 100px;
+    height: 50px;
+    background: #66284A;
+    border-radius: 20px 20px 0px 0px;
+  }
+  .middle {
+    width: 100px;
+    height: 100px;
+    background: #66284A;
+  }
+  .lower {
+    width: 0px;
+    height: 0px;
+    border-top: 50px solid #66284A;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+  }
+</style>

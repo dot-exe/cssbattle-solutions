@@ -18,6 +18,7 @@ I tried to give my best to perform these excercises. The solutions presented in 
 ![11-09-2023-photo](/daily-targets/11-09-2023/11-09-2023-photo.png)
 ![12-09-2023-photo](/daily-targets/12-09-2023/12-09-2023-photo.png)
 ![13-09-2023-photo](/daily-targets/13-09-2023/13-09-2023-photo.png)
+![14-09-2023-photo](/daily-targets/14-09-2023/14-09-2023-photo.png)
 <br>
 [05-09-2023](https://cssbattle.dev/play/AXGhRdSBRbFCfpYCstpM)
 <br>
@@ -36,5 +37,7 @@ I tried to give my best to perform these excercises. The solutions presented in 
 [12-09-2023](https://cssbattle.dev/play/97lYDZ08hstqexDs9HeT)
 <br>
 [13-09-2023](https://cssbattle.dev/play/gK8G0EfMHBHjUEe8qHfr)
+<br>
+[14-09-2023](https://cssbattle.dev/play/aQ8SxNueIjKJHGHOHhIU)
 <br>
 _to be continued..._

@@ -62,3 +62,28 @@
 </style>
 ```
 <sub>Full code for my solution</sub>
+
+<br>
+<br>
+
+```html
+<div class="figure">
+</div>
+<style>
+  body {
+    background: #F3AC3C;
+  }
+  .figure {
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #F3AC3C;
+    box-shadow: inset -100px 100px #1A4341,
+                inset 50px 150px #998235;
+  }
+</style>
+```
+<sub>Second solution</sub>

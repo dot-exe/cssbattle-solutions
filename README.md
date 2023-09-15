@@ -8,7 +8,48 @@ I tried to give my best to perform these excercises. The solutions presented in 
 <br>
 <sub>_NOTE2: some solutions may not have filled ratings as I don't have PLUS account on CSSBattle._</sub>
 
-# Daily Targets
+# Daily Targets - links
+
+## August 2023
+
+[31-08-2023](https://cssbattle.dev/play/rghvs0HJU07zmlIENJr4)
+
+## September 2023
+
+[01-09-2023](https://cssbattle.dev/play/ievuaTR69rtFGRJjeqZn)
+
+[02-09-2023](https://cssbattle.dev/play/eg4M4tnoJCWcAEhEBP8x)
+
+[03-09-2023](https://cssbattle.dev/play/hdSQpbCiq57pJgkhBa7c)
+
+[04-09-2023](https://cssbattle.dev/play/eOEg01X9rCpMQnXpIIXs)
+
+[05-09-2023](https://cssbattle.dev/play/AXGhRdSBRbFCfpYCstpM)
+
+[06-09-2023](https://cssbattle.dev/play/tjqT6GqcgdL7fWFqYnqK)
+
+[07-09-2023](https://cssbattle.dev/play/VAKgNC1jyPfutbnApSg4)
+
+[08-09-2023](https://cssbattle.dev/play/fvELCOWUKXuKyHSsnZZk)
+
+[09-09-2023](https://cssbattle.dev/play/G4otTDLJBbYCrKVVtr6q)
+
+[10-09-2023](https://cssbattle.dev/play/Xt3tUGrdPbbhpYBBYQPZ)
+
+[11-09-2023](https://cssbattle.dev/play/UidFZ3Ir3BBfqdSdxbLA)
+
+[12-09-2023](https://cssbattle.dev/play/97lYDZ08hstqexDs9HeT)
+
+[13-09-2023](https://cssbattle.dev/play/gK8G0EfMHBHjUEe8qHfr)
+
+[14-09-2023](https://cssbattle.dev/play/aQ8SxNueIjKJHGHOHhIU)
+
+[15-09-2023](https://cssbattle.dev/play/o9x5ARQpbrFhiCAzsDK6)
+
+_to be continued..._
+
+# Daily Targets - photo preview
+
 ![31-08-2023-photo](/daily-targets/31-08-2023/31-08-2023-photo.png)
 ![01-09-2023-photo](/daily-targets/01-09-2023/01-09-2023-photo.png)
 ![02-09-2023-photo](/daily-targets/02-09-2023/02-09-2023-photo.png)
@@ -25,37 +66,3 @@ I tried to give my best to perform these excercises. The solutions presented in 
 ![13-09-2023-photo](/daily-targets/13-09-2023/13-09-2023-photo.png)
 ![14-09-2023-photo](/daily-targets/14-09-2023/14-09-2023-photo.png)
 ![15-09-2023-photo](/daily-targets/15-09-2023/15-09-2023-photo.png)
-<br>
-[31-08-2023](https://cssbattle.dev/play/rghvs0HJU07zmlIENJr4)
-<br>
-[01-09-2023](https://cssbattle.dev/play/ievuaTR69rtFGRJjeqZn)
-<br>
-[02-09-2023](https://cssbattle.dev/play/eg4M4tnoJCWcAEhEBP8x)
-<br>
-[03-09-2023](https://cssbattle.dev/play/hdSQpbCiq57pJgkhBa7c)
-<br>
-[04-09-2023](https://cssbattle.dev/play/eOEg01X9rCpMQnXpIIXs)
-<br>
-[05-09-2023](https://cssbattle.dev/play/AXGhRdSBRbFCfpYCstpM)
-<br>
-[06-09-2023](https://cssbattle.dev/play/tjqT6GqcgdL7fWFqYnqK)
-<br>
-[07-09-2023](https://cssbattle.dev/play/VAKgNC1jyPfutbnApSg4)
-<br>
-[08-09-2023](https://cssbattle.dev/play/fvELCOWUKXuKyHSsnZZk)
-<br>
-[09-09-2023](https://cssbattle.dev/play/G4otTDLJBbYCrKVVtr6q)
-<br>
-[10-09-2023](https://cssbattle.dev/play/Xt3tUGrdPbbhpYBBYQPZ)
-<br>
-[11-09-2023](https://cssbattle.dev/play/UidFZ3Ir3BBfqdSdxbLA)
-<br>
-[12-09-2023](https://cssbattle.dev/play/97lYDZ08hstqexDs9HeT)
-<br>
-[13-09-2023](https://cssbattle.dev/play/gK8G0EfMHBHjUEe8qHfr)
-<br>
-[14-09-2023](https://cssbattle.dev/play/aQ8SxNueIjKJHGHOHhIU)
-<br>
-[15-09-2023](https://cssbattle.dev/play/o9x5ARQpbrFhiCAzsDK6)
-<br>
-_to be continued..._

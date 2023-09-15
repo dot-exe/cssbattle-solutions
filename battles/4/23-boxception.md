@@ -4,9 +4,9 @@
 <br>
 **Ratings:**
 <br>
-*Score: 601.18*
+*Score: 600.31*
 <br>
-*Characters: 611*
+*Characters: 753*
 
 ![23-boxception](/battles/4/23-boxception/23-boxception-solution.png)
 <sub>Photo with my score</sub>

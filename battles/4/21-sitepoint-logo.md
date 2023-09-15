@@ -1,0 +1,77 @@
+# Battle #4-21: SitePoint Logo
+
+**Link:** [Here!](https://cssbattle.dev/play/21)
+<br>
+**Ratings:**
+<br>
+*Score: ???*
+<br>
+*Characters: 1004*
+
+![25-blossom](/battles/4/21-sitepoint-logo/21-sitepoint-logo-solution.png)
+<sub>Photo with my score</sub>
+<br>
+<br>
+
+```html
+<div class="figure">
+    <div class="orange"></div>
+    <div class="orange-2"></div>
+    <div class="blue"></div>
+    <div class="blue-2"></div>
+  </div>
+  <style>
+    body {
+      background: #222;
+    }
+    .figure {
+      width: 145px;
+      height: 175px;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+    .orange {
+      width: 30px;
+      height: 80px;
+      background: #F2994A;
+      rotate: -45deg;
+      border-radius: 10px 0px 5px 0px;
+      position: absolute;
+      top: 47.5px;
+      left: 20px;
+    }
+    .orange-2 {
+      width: 30px;
+      height: 75px;
+      background: #F2994A;
+      rotate: 45deg;
+      position: absolute;
+      left: 35px;
+    }
+  
+    .blue {
+      width: 30px;
+      height: 80px;
+      background: #2D9CDB;
+      rotate: -45deg;
+      border-radius: 5px 0px 10px 0px;
+      position: absolute;
+      top: 47px;
+      left: 93px;
+    }
+  
+    .blue-2 {
+      width: 30px;
+      height: 75px;
+      background: #2D9CDB;
+      rotate: 45deg;
+      position: absolute;
+      top: 100px;
+      left: 78px;
+    }
+  </style>
+  
+```
+<sub>Full code for my solution</sub>

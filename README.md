@@ -12,7 +12,11 @@ I tried to give my best to perform these excercises. The solutions presented in 
 
 ### Battle #4
 
-[25# Blossom](https://cssbattle.dev/play/25)
+[#21 SitePoint Logo](https://cssbattle.dev/play/21)
+
+[#22 Cloud](https://cssbattle.dev/play/22)
+
+[#25 Blossom](https://cssbattle.dev/play/25)
 
 ## Daily Targets - links
 

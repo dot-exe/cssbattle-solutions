@@ -7,10 +7,16 @@ I tried to give my best to perform these excercises. The solutions presented in 
 <sub>_NOTE: in order to improve the score, you can remove all blank spaces, tabs and rename every single class and ID with one letter._</sub>
 <br>
 <sub>_NOTE2: some solutions may not have filled ratings as I don't have PLUS account on CSSBattle._</sub>
+ 
+## Battles - links
 
-# Daily Targets - links
+### Battle #4
 
-## August 2023
+[25# Blossom](https://cssbattle.dev/play/25)
+
+## Daily Targets - links
+
+### August 2023
 
 [27-08-2023](https://cssbattle.dev/play/l7E8quKnJJlnx4vLsdl2)
 
@@ -22,7 +28,7 @@ I tried to give my best to perform these excercises. The solutions presented in 
 
 [31-08-2023](https://cssbattle.dev/play/rghvs0HJU07zmlIENJr4)
 
-## September 2023
+### September 2023
 
 [01-09-2023](https://cssbattle.dev/play/ievuaTR69rtFGRJjeqZn)
 
@@ -56,7 +62,7 @@ I tried to give my best to perform these excercises. The solutions presented in 
 
 _to be continued..._
 
-# Daily Targets - photo preview
+## Daily Targets - photo preview
 ![27-08-2023-photo](/daily-targets/08-2023/27-08-2023/27-08-2023-photo.png) 
 ![28-08-2023-photo](/daily-targets/08-2023/28-08-2023/28-08-2023-photo.png) 
 ![29-08-2023-photo](/daily-targets/08-2023/29-08-2023/29-08-2023-photo.png) 

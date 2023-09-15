@@ -9,6 +9,7 @@ I tried to give my best to perform these excercises. The solutions presented in 
 <sub>_NOTE2: some solutions may not have filled ratings as I don't have PLUS account on CSSBattle._</sub>
 
 # Daily Targets
+![01-09-2023-photo](/daily-targets/01-09-2023/01-09-2023-photo.png)
 ![02-09-2023-photo](/daily-targets/02-09-2023/02-09-2023-photo.png)
 ![03-09-2023-photo](/daily-targets/03-09-2023/03-09-2023-photo.png)
 ![04-09-2023-photo](/daily-targets/04-09-2023/04-09-2023-photo.png)
@@ -23,6 +24,8 @@ I tried to give my best to perform these excercises. The solutions presented in 
 ![13-09-2023-photo](/daily-targets/13-09-2023/13-09-2023-photo.png)
 ![14-09-2023-photo](/daily-targets/14-09-2023/14-09-2023-photo.png)
 ![15-09-2023-photo](/daily-targets/15-09-2023/15-09-2023-photo.png)
+<br>
+[01-09-2023](https://cssbattle.dev/play/ievuaTR69rtFGRJjeqZn)
 <br>
 [02-09-2023](https://cssbattle.dev/play/eg4M4tnoJCWcAEhEBP8x)
 <br>

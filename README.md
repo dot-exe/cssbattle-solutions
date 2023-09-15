@@ -16,6 +16,8 @@ I tried to give my best to perform these excercises. The solutions presented in 
 
 [#22 Cloud](https://cssbattle.dev/play/22)
 
+[#23 Boxception](https://cssbattle.dev/play/23)
+
 [#25 Blossom](https://cssbattle.dev/play/25)
 
 ## Daily Targets - links

@@ -87,3 +87,27 @@
 </style>
 ```
 <sub>Second solution</sub>
+
+It took me a while to figure out how to shorten the code. The `grid` layout seemed to be more natural solution for this excercise, but `box-shadow` with `inset` parameter is much simplier. The HTML template is reduced to only one `div` and one CSS class, which massively improve the score (the code placed below has only 149 characters and scores at 696.67 points).
+
+```html
+<div><style>*{background:#F3AC3C}div{width:200;height:200;position:fixed;top:50;left:25%;box-shadow:inset -100px 100px#1A4341,inset 50px 150px#998235
+```
+
+or
+
+```html
+<div><style>*{background:#F3AC3C}div{width:50;height:50;position:fixed;top:200;left:150;box-shadow:-25px -25px 0 25px#998235,25px -75px 0 75px#1A4341
+```
+
+This code can run without `<div>`, but then `margin:0` is required.
+
+```html
+<style>*{background:#F3AC3C;margin:0;width:200;height:200;position:fixed;top:50;left:25%;box-shadow:inset -100px 100px#1A4341,inset 50px 150px#998235
+```
+
+or 
+
+```html
+<style>*{background:#F3AC3C;margin:0;width:50;height:50;position:fixed;top:200;left:150;box-shadow:-25px -25px 0 25px#998235,25px -75px 0 75px#1A4341
+```

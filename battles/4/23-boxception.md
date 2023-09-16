@@ -62,9 +62,13 @@
 </style>
 ```
 <sub>Full code for my solution</sub>
-
 <br>
 <br>
+**Ratings:**
+<br>
+*Score: 696.67*
+<br>
+*Characters: 149*
 
 ```html
 <div class="figure">

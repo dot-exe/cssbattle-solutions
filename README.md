@@ -66,6 +66,8 @@ I tried to give my best to perform these excercises. The solutions presented in 
 
 [15-09-2023](https://cssbattle.dev/play/o9x5ARQpbrFhiCAzsDK6)
 
+[16-09-2023](https://cssbattle.dev/play/x3AMz335HuaGovK9Tg8i)
+
 _to be continued..._
 
 ## Daily Targets - photo preview
@@ -89,3 +91,4 @@ _to be continued..._
 ![13-09-2023-photo](/daily-targets/09-2023/13-09-2023/13-09-2023-photo.png)
 ![14-09-2023-photo](/daily-targets/09-2023/14-09-2023/14-09-2023-photo.png)
 ![15-09-2023-photo](/daily-targets/09-2023/15-09-2023/15-09-2023-photo.png)
+![16-09-2023-photo](/daily-targets/09-2023/16-09-2023/16-09-2023-photo.png)

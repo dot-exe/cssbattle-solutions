@@ -23,6 +23,7 @@ I tried to give my best to perform these excercises. The solutions presented in 
 ## Daily Targets - links
 
 ### August 2023
+[19-08-2023](https://cssbattle.dev/play/1fzXRMzf7cHAFqUIG2aC)
 
 [20-08-2023](https://cssbattle.dev/play/TyrqA6LBgesQVJZog5fI)
 
@@ -89,6 +90,7 @@ _to be continued..._
 
 ## Daily Targets - photo preview
 ### August 2023
+![19-08-2023-photo](/daily-targets/08-2023/19-08-2023/19-08-2023-photo.png) 
 ![20-08-2023-photo](/daily-targets/08-2023/20-08-2023/20-08-2023-photo.png) 
 ![21-08-2023-photo](/daily-targets/08-2023/21-08-2023/21-08-2023-photo.png) 
 ![22-08-2023-photo](/daily-targets/08-2023/22-08-2023/22-08-2023-photo.png) 

@@ -24,7 +24,19 @@ I tried to give my best to perform these excercises. The solutions presented in 
 
 ### August 2023
 
-[27-08-2023](https://cssbattle.dev/play/KCiU4kXaC4xknFRUd7N3)
+[20-08-2023](https://cssbattle.dev/play/TyrqA6LBgesQVJZog5fI)
+
+[21-08-2023](https://cssbattle.dev/play/1CBnRp8yysk1kffJXD56)
+
+[22-08-2023](https://cssbattle.dev/play/QciIKAqMigBBHqLnUy6p)
+
+[23-08-2023](https://cssbattle.dev/play/3qe4gWPsOAsmMPhXtlXP)
+
+[24-08-2023](https://cssbattle.dev/play/4ggcUyxNQuX7vghuikSu)
+
+[25-08-2023](https://cssbattle.dev/play/eyHiEBFn09QItfM8hCXm)
+
+[26-08-2023](https://cssbattle.dev/play/KCiU4kXaC4xknFRUd7N3)
 
 [27-08-2023](https://cssbattle.dev/play/l7E8quKnJJlnx4vLsdl2)
 
@@ -70,15 +82,26 @@ I tried to give my best to perform these excercises. The solutions presented in 
 
 [16-09-2023](https://cssbattle.dev/play/x3AMz335HuaGovK9Tg8i)
 
+[17-09-2023](https://cssbattle.dev/play/A8ByjRBQp6gHChFurPm6)
+
+
 _to be continued..._
 
 ## Daily Targets - photo preview
+### August 2023
+![20-08-2023-photo](/daily-targets/08-2023/20-08-2023/20-08-2023-photo.png) 
+![21-08-2023-photo](/daily-targets/08-2023/21-08-2023/21-08-2023-photo.png) 
+![22-08-2023-photo](/daily-targets/08-2023/22-08-2023/22-08-2023-photo.png) 
+![23-08-2023-photo](/daily-targets/08-2023/23-08-2023/23-08-2023-photo.png) 
+![24-08-2023-photo](/daily-targets/08-2023/24-08-2023/24-08-2023-photo.png) 
+![25-08-2023-photo](/daily-targets/08-2023/25-08-2023/25-08-2023-photo.png) 
 ![26-08-2023-photo](/daily-targets/08-2023/26-08-2023/26-08-2023-photo.png) 
 ![27-08-2023-photo](/daily-targets/08-2023/27-08-2023/27-08-2023-photo.png) 
 ![28-08-2023-photo](/daily-targets/08-2023/28-08-2023/28-08-2023-photo.png) 
 ![29-08-2023-photo](/daily-targets/08-2023/29-08-2023/29-08-2023-photo.png) 
 ![30-08-2023-photo](/daily-targets/08-2023/30-08-2023/30-08-2023-photo.png) 
 ![31-08-2023-photo](/daily-targets/08-2023/31-08-2023/31-08-2023-photo.png)
+### September 2023
 ![01-09-2023-photo](/daily-targets/09-2023/01-09-2023/01-09-2023-photo.png)
 ![02-09-2023-photo](/daily-targets/09-2023/02-09-2023/02-09-2023-photo.png)
 ![03-09-2023-photo](/daily-targets/09-2023/03-09-2023/03-09-2023-photo.png)
@@ -95,3 +118,4 @@ _to be continued..._
 ![14-09-2023-photo](/daily-targets/09-2023/14-09-2023/14-09-2023-photo.png)
 ![15-09-2023-photo](/daily-targets/09-2023/15-09-2023/15-09-2023-photo.png)
 ![16-09-2023-photo](/daily-targets/09-2023/16-09-2023/16-09-2023-photo.png)
+![17-09-2023-photo](/daily-targets/09-2023/17-09-2023/17-09-2023-photo.png)

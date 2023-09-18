@@ -1,0 +1,33 @@
+<div class="figure">
+  <div class="a"></div>
+  <div class="b"></div>
+  <div class="c"></div>
+</div>
+<style>
+  body {
+    margin: 0;
+  }
+  
+  .figure {
+    display: grid;
+    grid-template: 100px 100px 100px / 100px 200px 100px;
+    width: 400px;
+    height: 300px;
+    background: #9076D8;
+  }
+
+  .a {
+    background: #802471;
+    grid-area: 1 / 1 / 3 / 1;
+  }
+
+  .b {
+    background: linear-gradient(90deg, #802471 2px, #4F0843);
+    grid-area: 2 / 2 / 3 / 3;
+  }
+
+  .c {
+    background: #4F0843;
+    grid-area: 2 / 3 / 4 / 4;
+  }
+</style>

@@ -87,6 +87,7 @@ I tried to give my best to perform these excercises. The solutions presented in 
 
 [17-09-2023](https://cssbattle.dev/play/A8ByjRBQp6gHChFurPm6)
 
+[18-09-2023](https://cssbattle.dev/play/x0L7nQMy9Cmd959zZbEW)
 
 _to be continued..._
 
@@ -124,3 +125,4 @@ _to be continued..._
 ![15-09-2023-photo](/daily-targets/09-2023/15-09-2023/15-09-2023-photo.png)
 ![16-09-2023-photo](/daily-targets/09-2023/16-09-2023/16-09-2023-photo.png)
 ![17-09-2023-photo](/daily-targets/09-2023/17-09-2023/17-09-2023-photo.png)
+![18-09-2023-photo](/daily-targets/09-2023/18-09-2023/18-09-2023-photo.png)

@@ -1,0 +1,46 @@
+<div class="figure">
+  <div class="half"></div>
+  <div class="half rot-1"></div>
+  <div class="half rot-2"></div>
+  <div class="half rot-3"></div>
+</div>
+<style>
+  body {
+    background: #4F77FF;
+  }
+  .figure {
+    width: 210px;
+    height: 210px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .half {
+    width: 70px;
+    height: 140px;
+    border-radius: 75px 0px 0px 75px;
+    background: #FFFFFF;
+  }
+
+  .rot-1 {
+    rotate: 90deg;
+    position: absolute;
+    top: -35px;
+    left: 105px;
+  }
+  .rot-2 {
+    rotate: 180deg;
+    position: absolute;
+    top: 70px;
+    left: 140px;
+  }
+
+  .rot-3 {
+    rotate: 270deg;
+    position: absolute;
+    top: 105px;
+    left: 35px;
+  }
+</style>

@@ -23,6 +23,41 @@ I tried to give my best to perform these excercises. The solutions presented in 
 ## Daily Targets - links
 
 ### August 2023
+
+[01-08-2023](https://cssbattle.dev/play/aMRGHzPbqyEqO5d6xRSv)
+
+[02-08-2023](https://cssbattle.dev/play/57UVQ83bnNJ96OUonIJb)
+
+[03-08-2023](https://cssbattle.dev/play/PRjqahxszqlGDSvaunzJ)
+
+[04-08-2023](https://cssbattle.dev/play/I0194rXRp2dqlY3LXRyA)
+
+[05-08-2023](https://cssbattle.dev/play/YtPFdbMpmubgqZ23DtK3)
+
+[06-08-2023](https://cssbattle.dev/play/eIXY9rYxMOSkipgUkJGr)
+
+[07-08-2023](https://cssbattle.dev/play/b0kBOO2ZVexttWB58G8q)
+
+[08-08-2023](https://cssbattle.dev/play/4VfGyqj8stnqc5njY6rn)
+
+[09-08-2023](https://cssbattle.dev/play/5zz7xHYWCTR8YJg85mMp)
+
+[10-08-2023](https://cssbattle.dev/play/Y9ClsHseHODladcRg8HD)
+
+[11-08-2023](https://cssbattle.dev/play/JCBU1qkszqQllyrMqNnO)
+
+[12-08-2023](https://cssbattle.dev/play/ZfMY6fK7bR97CcaverAc)
+
+[13-08-2023](https://cssbattle.dev/play/GTHyAgD8BJ81NChOprEi)
+
+[14-08-2023](https://cssbattle.dev/play/Xjfiq68aHuYcV9dp9TQ8)
+
+[15-08-2023](https://cssbattle.dev/play/KkYlfIHQN27g0O0zBjQ6)
+
+[16-08-2023](https://cssbattle.dev/play/i8q8xOxP7ZRO9pN7VdL6)
+
+[17-08-2023](https://cssbattle.dev/play/Y0Zo7Ha1dt4aVhbpu92J)
+
 [18-08-2023](https://cssbattle.dev/play/Q3bvkfyJgIHTqYWlLzXQ)
 
 [19-08-2023](https://cssbattle.dev/play/1fzXRMzf7cHAFqUIG2aC)
@@ -89,10 +124,29 @@ I tried to give my best to perform these excercises. The solutions presented in 
 
 [18-09-2023](https://cssbattle.dev/play/x0L7nQMy9Cmd959zZbEW)
 
+[19-09-2023](https://cssbattle.dev/play/HEKXB9imd5fM8LjO7MUM)
+
 _to be continued..._
 
 ## Daily Targets - photo preview
 ### August 2023
+![01-08-2023-photo](/daily-targets/08-2023/01-08-2023/01-08-2023-photo.png) 
+![02-08-2023-photo](/daily-targets/08-2023/02-08-2023/02-08-2023-photo.png) 
+![03-08-2023-photo](/daily-targets/08-2023/03-08-2023/03-08-2023-photo.png) 
+![04-08-2023-photo](/daily-targets/08-2023/04-08-2023/04-08-2023-photo.png) 
+![05-08-2023-photo](/daily-targets/08-2023/05-08-2023/05-08-2023-photo.png) 
+![06-08-2023-photo](/daily-targets/08-2023/06-08-2023/06-08-2023-photo.png) 
+![07-08-2023-photo](/daily-targets/08-2023/07-08-2023/07-08-2023-photo.png) 
+![08-08-2023-photo](/daily-targets/08-2023/08-08-2023/08-08-2023-photo.png) 
+![09-08-2023-photo](/daily-targets/08-2023/09-08-2023/09-08-2023-photo.png) 
+![10-08-2023-photo](/daily-targets/08-2023/10-08-2023/10-08-2023-photo.png) 
+![11-08-2023-photo](/daily-targets/08-2023/11-08-2023/11-08-2023-photo.png) 
+![12-08-2023-photo](/daily-targets/08-2023/12-08-2023/12-08-2023-photo.png) 
+![13-08-2023-photo](/daily-targets/08-2023/13-08-2023/13-08-2023-photo.png) 
+![14-08-2023-photo](/daily-targets/08-2023/14-08-2023/14-08-2023-photo.png) 
+![15-08-2023-photo](/daily-targets/08-2023/15-08-2023/15-08-2023-photo.png) 
+![16-08-2023-photo](/daily-targets/08-2023/16-08-2023/16-08-2023-photo.png) 
+![17-08-2023-photo](/daily-targets/08-2023/17-08-2023/17-08-2023-photo.png) 
 ![18-08-2023-photo](/daily-targets/08-2023/18-08-2023/18-08-2023-photo.png) 
 ![19-08-2023-photo](/daily-targets/08-2023/19-08-2023/19-08-2023-photo.png) 
 ![20-08-2023-photo](/daily-targets/08-2023/20-08-2023/20-08-2023-photo.png) 
@@ -126,3 +180,4 @@ _to be continued..._
 ![16-09-2023-photo](/daily-targets/09-2023/16-09-2023/16-09-2023-photo.png)
 ![17-09-2023-photo](/daily-targets/09-2023/17-09-2023/17-09-2023-photo.png)
 ![18-09-2023-photo](/daily-targets/09-2023/18-09-2023/18-09-2023-photo.png)
+![19-09-2023-photo](/daily-targets/09-2023/19-09-2023/19-09-2023-photo.png)

@@ -1,0 +1,27 @@
+<div class="figure">
+  <div class="egg"></div>
+  <div class="egg"></div>
+  <div class="egg"></div>
+</div>
+<style>
+  body {
+    background: #DE9473;
+  }
+  .figure {
+    display: grid;
+    grid-template-rows: 150px;
+    grid-template-columns:  repeat(3, 80px);
+    width: 260px;
+    height: 150px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .egg {
+    width: 100px;
+    height: 150px;
+    background: #A4281F;
+    border-radius: 50%;
+  }
+</style>
